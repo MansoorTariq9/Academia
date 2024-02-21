@@ -10,26 +10,26 @@ This repository serves as a portfolio showcasing the academic work I've complete
 
 The repository is organized into directories based on the courses or subjects. Each directory contains subdirectories for individual assignments or projects. Here's a brief overview:
 
-|-- Semester 1
-|   |-- Subject 1
-|   |   |-- Assignment 1
-|   |   |-- Assignment 2
-|   |   |-- ...
-|   |-- Subject 2
-|   |   |-- Project 1
-|   |   |-- Project 2
-|   |   |-- ...
-|-- Semester 2
-|   |-- Subject 1
-|   |   |-- Assignment 1
-|   |   |-- Assignment 2
-|   |   |-- ...
-|   |-- Subject 2
-|   |   |-- Project 1
-|   |   |-- Project 2
-|   |   |-- ...
-|-- ...
-
+|-- Semester 1<br />
+|   |-- Subject 1<br />
+|   |   |-- Assignment 1<br />
+|   |   |-- Assignment 2<br />
+|   |   |-- ...<br />
+|   |-- Subject 2<br />
+|   |   |-- Project 1<br />
+|   |   |-- Project 2<br />
+|   |   |-- ...<br />
+|-- Semester 2<br />
+|   |-- Subject 1<br />
+|   |   |-- Assignment 1<br />
+|   |   |-- Assignment 2<br />
+|   |   |-- ...<br />
+|   |-- Subject 2<br />
+|   |   |-- Project 1<br />
+|   |   |-- Project 2<br />
+|   |   |-- ...<br />
+|-- ...<br />
+<br />
 # Usage
 
 Feel free to explore the content of this repository. You can browse through the directories to find specific assignments or projects you're interested in. Each directory may contain its own README.md file providing additional details about the assignment or project, including instructions for running the code, dependencies, and any other relevant information.
