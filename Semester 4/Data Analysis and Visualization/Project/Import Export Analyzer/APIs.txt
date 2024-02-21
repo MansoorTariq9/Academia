@@ -1,0 +1,7 @@
+Pak_Neighbours_Total: /api/get?max=502&type=C&freq=A&px=HS&ps=all&r=586&p=699%2C364%2C156%2C4&rg=1%2C2&cc=TOTAL
+Pak_MiddleEast_Total: /api/get?max=502&type=C&freq=A&px=HS&ps=all&r=586&p=682%2C784%2C634%2C818%2C792&rg=1%2C2&cc=TOTAL
+Pak_AustraliaNewZealand_Total: /api/get?max=502&type=C&freq=A&px=HS&ps=all&r=586&p=554%2C36&rg=1%2C2&cc=TOTAL
+Pak_Europe_Total: /api/get?max=502&type=C&freq=A&px=HS&ps=all&r=586&p=826%2C381%2C724%2C251%2C276&rg=1%2C2&cc=TOTAL
+Pak_SouthAmerica_Total: /api/get?max=502&type=C&freq=A&px=HS&ps=all&r=586&p=484%2C76&rg=1%2C2&cc=TOTAL
+Pak_USA_Total: /api/get?max=502&type=C&freq=A&px=HS&ps=all&r=586&p=842&rg=1%2C2&cc=TOTAL
+Pak_Canada_Total: /api/get?max=502&type=C&freq=A&px=HS&ps=all&r=586&p=124&rg=1%2C2&cc=TOTAL
