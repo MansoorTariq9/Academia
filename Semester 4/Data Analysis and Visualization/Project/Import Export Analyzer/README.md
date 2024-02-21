@@ -40,5 +40,5 @@ Instructions on setting up your environment to run the scripts, notebooks, and P
 
 ## Contributors
 
-Muhammad Anas
+Muhammad Anas and 
 Sana Ahmed Khan
