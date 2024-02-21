@@ -40,8 +40,5 @@ Instructions on setting up your environment to run the scripts, notebooks, and P
 
 ## Contributors
 
-List of project contributors and their contact information.
-
-## License
-
-Details on the project license.
+Muhammad Anas
+Sana Ahmed Khan
